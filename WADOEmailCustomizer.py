@@ -6,13 +6,13 @@ wadoEmailP2 = """This is a friendly reminder that you have signed up for WADO's 
                 [DATE] (this coming [SAT/SUN]) from [TIME_DURATION] PM EST @ Tishman Commons/Zoom! Tishman Commons
                 is on the lowest level of Lulu; the Zoom link can be found here. This workshop will be taught by our
                 lovely act [leaders] [NAMES]!""".split()
-#print(wadoEmailP2)
+
 wadoEmailP3 = """Please come in clothes that you can easily dance in, bring a water bottle,
                     and be prepared to have some fun!""".split()
 wadoEmailP4 = """If you are going to be late or absent, please let the act [leaders]
                 know at least 24 hours in advance with an e-mail and remove your name from
                 the sign-up sheet (if absent). [NAME1] username is [UN1] [NAME2] username is [UN2]""".split()
-#print(wadoEmailLine4)
+
 wadoEmailP5 = """Lastly, as you head into this workshop, we want you to think about if you would like to
                     participate in WADO's Spring Showcase. Spring Showcase this year will be virtual, consisting
                     of a YouTube live stream of all the dances taught this spring. If you choose to participate in
@@ -22,7 +22,7 @@ wadoEmailP5 = """Lastly, as you head into this workshop, we want you to think ab
                     hosted at a later time by the act leader if you put your name down). The deadline to sign-up to
                     participate in Spring Showcase for [WORKSHOP_NAME] is [DEADLINE] at 11:59 PM EST. For all T4
                     dances, the deadline to submit videos is Saturday, June 5th at 11:59 PM EST.""".split()
-#print(wadoEmailLine5)
+
 wadoEmailP6 = """<3,""".split()
 wadoEmailP7 = """WADO""".split()
 
